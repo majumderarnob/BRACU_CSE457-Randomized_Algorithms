@@ -1,1 +1,1 @@
-# BRACU_CSE457-Randomized_Algorithms
+These are my Assignment files with solution of Brac University's Computer Science & Engineering departmental core course CSE457 known as Randomized Algorithms. These Lab assignments are given during Fall'2022 Semester for the course work.
